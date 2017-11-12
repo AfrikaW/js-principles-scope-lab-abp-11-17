@@ -1,7 +1,7 @@
 
 var customerName = 'bob';
 
-let name
+let name=bob
 
 function upperCaseCustomerName(name) {
    var customerName= name.toUpperCase
