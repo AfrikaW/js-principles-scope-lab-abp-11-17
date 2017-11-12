@@ -9,6 +9,6 @@ return `${customerName}`.toUpperCase()
 }
 
 // in global scope and assigns it to be 'not bob'.
-function setBestCustomer(bestCustomer) {
+function setBestCustomer() {
   bestCustomer= 'not bob'
 }
