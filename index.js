@@ -26,7 +26,7 @@ function overwriteBestCustomer(){
       leastFavoriteCustomer = "mikey";
   }
 
-  function twoFavoriteCustomers(){
+  function attemptTwoFavoriteCustomers(){
     let twoFavoriteCustomers= "mikey"
     let twoFavoriteCustomers= "mikey2"
   }
