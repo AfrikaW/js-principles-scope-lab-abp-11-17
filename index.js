@@ -8,7 +8,7 @@ var customerName = 'bob';
 //return `${customerName}`.toUpperCase()
 //}
 function upperCaseCustomerName() {
-customerName = 'BOB''
+customerName = 'BOB'
 }
 
 // in global scope and assigns it to be 'not bob'.
