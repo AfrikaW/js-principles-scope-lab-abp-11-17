@@ -3,6 +3,6 @@ const customerName = "bob";
 
 
 function upperCaseCustomerName(customerName) {
-  console.log(`${customerName}`.toUpperCase());
+     return customerName.toUpperCase ;
 
 }
