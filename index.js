@@ -4,8 +4,11 @@ var customerName = 'bob';
 //function upperCaseCustomerName(customerName) {
 //  console.log (`${customerName}`.toUpperCase())
 //}
-function upperCaseCustomerName(customerName) {
-return `${customerName}`.toUpperCase()
+//function upperCaseCustomerName(customerName) {
+//return `${customerName}`.toUpperCase()
+//}
+function upperCaseCustomerName() {
+customerName = 'BOB''
 }
 
 // in global scope and assigns it to be 'not bob'.
